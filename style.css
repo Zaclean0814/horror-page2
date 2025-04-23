@@ -8,7 +8,7 @@ body {
   align-items: start;
   height: 100vh;
   overflow-y: scroll;
-  padding: 5em;
+  padding: 2em;
   background-image: url('static_noise.gif');
   background-size: cover;
   background-blend-mode: overlay;
